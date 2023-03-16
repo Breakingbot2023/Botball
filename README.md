@@ -1,3 +1,3 @@
-# Createbot
+# Botball
 
-This repository is a example of the code we wrote for the Create bot.
+In this repository we publish our robot codes.
